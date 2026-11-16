@@ -1,6 +1,5 @@
 Creation Date: 16-11-2026 18:18
-Last Edited: 16-11-2026 18:28
-
+Last Edited: 16-11-2026 20:11
 ## Mesopotamia
 	- Tigris & Euphrates
 	- Heat drove people away -> many groups of people
@@ -34,7 +33,6 @@ Last Edited: 16-11-2026 18:28
 	 - Ploytheism worship nature because they live in a good society
 	 - Pharaoh always reincarnate and is GOD
 	 - Reincarnation big part in society
-	 - 
 ### Old Egypt 
 	- Nomes
 	- Too much pyramid
@@ -80,7 +78,6 @@ Last Edited: 16-11-2026 18:28
 	- Direct Democracy
 	- Philosophy
 	- High sufferage requirement
-	- 
 ### Sparta
 	- DICTATORSHIP
 	- War people
