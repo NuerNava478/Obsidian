@@ -4,25 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c97d4e2397901a38",
+        "id": "9ac08d3e22f4d123",
         "type": "tabs",
         "children": [
           {
-            "id": "bbbc03c94cc3fc14",
+            "id": "02562357454ea115",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "To-Do list.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "To-Do list"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "School/Biology - Plant Anatomy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "School/Biology - Plant Anatomy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -151,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md",
+            "file": "School/Biology - Plant Anatomy.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -181,21 +180,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "tasknotes:Open mini calendar view": false,
-      "tasknotes:Open calendar view": false,
-      "tasknotes:Open tasks view": false,
-      "tasknotes:Open agenda view": false,
-      "tasknotes:Open Kanban board": false,
-      "tasknotes:Open Pomodoro timer": false,
-      "tasknotes:Open Pomodoro statistics": false,
-      "tasknotes:Create new task": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbbc03c94cc3fc14",
+  "active": "02562357454ea115",
   "lastOpenFiles": [
     "Personal/Addresses.md",
+    "To-Do list.md",
+    "Science - Cell Transport.md",
+    "Reminder.md",
+    "Excalidraw/Drawing 2026-11-17 13.42.01.excalidraw.md",
+    "Excalidraw",
+    "School/History Review.md",
+    "School/Biology - Plant Anatomy.md",
+    "Shop Here.md",
+    "README.md",
     "TaskNotes/Start Here.md",
     "2026-11-17.md"
   ]

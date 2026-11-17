@@ -508,5 +508,10 @@
     "timeblockEventTitleTemplate": "{{title}}"
   },
   "enableDebugLogging": false,
-  "lastSeenVersion": "4.18.4"
+  "lastSeenVersion": "4.18.4",
+  "pomodoroState": {
+    "isRunning": false,
+    "timeRemaining": 1500
+  },
+  "lastPomodoroDate": "2026-11-16"
 }
