@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To-Do list.md",
+                "file": "Quick Notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "To-Do list"
+              "title": "Quick Notes"
             }
           }
         ]
@@ -187,10 +187,11 @@
   },
   "active": "02562357454ea115",
   "lastOpenFiles": [
-    "Personal/Addresses.md",
     "To-Do list.md",
+    "Templates/Creation Date_Last Edited.md",
+    "Personal/Addresses.md",
     "Science - Cell Transport.md",
-    "Reminder.md",
+    "Quick Notes.md",
     "Excalidraw/Drawing 2026-11-17 13.42.01.excalidraw.md",
     "Excalidraw",
     "School/History Review.md",
