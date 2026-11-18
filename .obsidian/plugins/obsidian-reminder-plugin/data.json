@@ -6,7 +6,7 @@
       {
         "title": "Social - Excerise Pg.12",
         "time": "2026-11-23",
-        "rowNumber": 7,
+        "rowNumber": 8,
         "muted": false
       }
     ]
@@ -67,7 +67,7 @@
     "taskNotesPropertyTitle": "",
     "taskNotesPropertyRecurrence": "",
     "taskNotesPropertyCompletedDate": "",
-    "language": "auto",
+    "language": "en",
     "yearMonthDisplayFormat": "MMMM YYYY",
     "monthDayDisplayFormat": "DD/MM",
     "shortDateWithWeekdayDisplayFormat": "D/MM (ddd)",

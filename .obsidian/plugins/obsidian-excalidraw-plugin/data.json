@@ -618,7 +618,7 @@
   "done": "☑",
   "doubleClickLinkOpenViewMode": true,
   "drawingEmbedPrefixWithFilename": true,
-  "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "drawingFilenameDateTime": "DD-MM-YYYY HH.mm.ss",
   "drawingFilenamePrefix": "Drawing ",
   "drawingFilnameEmbedPostfix": " ",
   "drawingOpenCount": 0,
