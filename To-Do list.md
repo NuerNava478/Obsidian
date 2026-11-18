@@ -1,3 +1,4 @@
+[[Daily Tasks]]
 ### School
 - [x] Science - Cell Cycle
 - [x] Science - Cell Transport
@@ -5,7 +6,6 @@
 - [ ] Biology - Plant Anatomy Complete
 - [x] Health - Kidney Label
 - [ ] Social - Excerise Pg.12 (@23-11-2026)
-- [ ] Bring A4 Paper (@24-11-2026)
 - [x] Biology - Finished writing worksheet
 
 
