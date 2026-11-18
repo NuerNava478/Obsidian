@@ -1,0 +1,90 @@
+{
+  "scanned": true,
+  "seededTaskStatuses": "",
+  "reminders": {
+    "To-Do list.md": [
+      {
+        "title": "Social - Excerise Pg.12",
+        "time": "2026-11-23",
+        "rowNumber": 6,
+        "muted": false
+      },
+      {
+        "title": "Bring A4 Paper",
+        "time": "2026-11-24",
+        "rowNumber": 7,
+        "muted": false
+      }
+    ]
+  },
+  "noteReminders": {},
+  "debug": false,
+  "dndUntil": null,
+  "settings": {
+    "reminderTime": "09:00",
+    "reminderTimeStep": 15,
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "enableNotification": true,
+    "reNotifyMutedOnStartup": false,
+    "notificationPopupStyle": "toast",
+    "openNoteOnReminderClick": false,
+    "useSystemNotification": false,
+    "showPopupWithSystemNotification": false,
+    "keepSystemNotificationOnScreen": false,
+    "focusDoneButtonOnPopup": false,
+    "showOverdueCountInStatusBar": true,
+    "autoCompleteTrigger": "(@",
+    "convertNonTaskLines": true,
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "editorReminderDisplay": true,
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "DD-MM-YYYY",
+    "dateTimeFormat": "DD-MM-YYYY HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "useReminderTimeFallbackForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "taskStatuses": "",
+    "enableDataviewReminderFormat": false,
+    "dataviewReminderFieldName": "reminder",
+    "enableKanbanPluginReminderFormat": false,
+    "noteReminderSources": [
+      {
+        "property": "reminder",
+        "managed": true,
+        "since": ""
+      }
+    ],
+    "noteReminderHeaderBell": true,
+    "taskNotesEnabled": false,
+    "taskNotesSince": "",
+    "taskNotesIdentification": "auto",
+    "taskNotesTaskTag": "",
+    "taskNotesTaskProperty": "",
+    "taskNotesTaskPropertyValue": "",
+    "taskNotesCompletedStatuses": "",
+    "taskNotesArchiveTag": "",
+    "taskNotesPropertyReminders": "",
+    "taskNotesPropertyDue": "",
+    "taskNotesPropertyScheduled": "",
+    "taskNotesPropertyStatus": "",
+    "taskNotesPropertyTitle": "",
+    "taskNotesPropertyRecurrence": "",
+    "taskNotesPropertyCompletedDate": "",
+    "language": "auto",
+    "yearMonthDisplayFormat": "MMMM YYYY",
+    "monthDayDisplayFormat": "DD/MM",
+    "shortDateWithWeekdayDisplayFormat": "D/MM (ddd)",
+    "timeDisplayFormat": "HH:mm",
+    "weekStart": "0",
+    "ntfyEnabled": false,
+    "ntfyServerUrl": "https://ntfy.sh",
+    "ntfyTopic": "",
+    "ntfyAccessToken": "",
+    "excludedPaths": "",
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}
