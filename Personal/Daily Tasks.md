@@ -1,4 +1,4 @@
-- [ ] Bring A4 Paper
-- [ ] Organize folder
-- [ ] Charge Headphones
-- [ ] Charge powerbank
+- [x] Bring A4 Paper
+- [x] Organize folder
+- [x] Charge Headphones
+- [x] Charge powerbank
