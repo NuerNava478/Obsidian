@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quick Notes.md",
+                "file": "Personal/Password and Stuff.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Notes"
+              "title": "Password and Stuff"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Quick Notes.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Quick Notes.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -150,7 +150,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Quick Notes.md",
+            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -164,6 +164,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,8 +179,10 @@
   "active": "e680521fcd803413",
   "lastOpenFiles": [
     "README.md",
-    "To-Do list.md",
+    "Personal/Password and Stuff.md",
+    "Kanban.md",
     "Quick Notes.md",
+    "To-Do list.md",
     "Templates/Creation Date_Last Edited.md",
     "Templates",
     "School/History Review.md",
