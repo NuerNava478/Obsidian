@@ -184,6 +184,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -197,6 +199,7 @@
   },
   "active": "e680521fcd803413",
   "lastOpenFiles": [
+    "Templates/Daily Quotes.md",
     "To-Do list.md",
     "Personal/Daily Tasks.md",
     "School/Biology - Plant Anatomy.md",

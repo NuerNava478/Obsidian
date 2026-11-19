@@ -67,7 +67,7 @@
     "taskNotesPropertyTitle": "",
     "taskNotesPropertyRecurrence": "",
     "taskNotesPropertyCompletedDate": "",
-    "language": "en",
+    "language": "auto",
     "yearMonthDisplayFormat": "MMMM YYYY",
     "monthDayDisplayFormat": "DD/MM",
     "shortDateWithWeekdayDisplayFormat": "D/MM (ddd)",
