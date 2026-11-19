@@ -1,4 +1,3 @@
-- [x] Bring A4 Paper
-- [x] Organize folder
-- [x] Charge Headphones
-- [x] Charge powerbank
+- [ ] Remind Mother
+- [ ] Charge powerbank
+- [ ] Remind boyfriend
