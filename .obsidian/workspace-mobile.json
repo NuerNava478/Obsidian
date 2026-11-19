@@ -192,7 +192,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +209,7 @@
   },
   "active": "6c01a0dd163f2d09",
   "lastOpenFiles": [
+    "Templates/Daily Quotes.md",
     "To-Do list.md",
     "Kanban.md",
     "Personal/Daily Tasks.md",
