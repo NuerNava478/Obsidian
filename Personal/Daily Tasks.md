@@ -1,3 +1,4 @@
-- [ ] Remind Mother
-- [ ] Charge powerbank
-- [ ] Remind boyfriend
+- [x] Remind Mother
+- [x] Charge powerbank
+- [x] Remind boyfriend
+- [x] Put food out
