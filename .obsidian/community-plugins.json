@@ -1,6 +1,7 @@
 [
   "obsidian-git",
+  "obsidian-excalidraw-plugin",
   "obsidian-kanban",
-  "ink",
+  "templater-obsidian",
   "obsidian-reminder-plugin"
 ]

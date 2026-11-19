@@ -1,0 +1,1 @@
+<% await tp.web.daily_quote() %>
