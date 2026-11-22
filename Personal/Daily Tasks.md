@@ -1,1 +1,1 @@
-- [ ] Charge powerbank
+- [x] Charge powerbank

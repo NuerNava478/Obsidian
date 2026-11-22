@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Daily Tasks.md",
-                "mode": "source",
+                "file": "To-Do list.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Tasks"
+              "title": "To-Do list"
             }
           }
         ]
@@ -199,13 +199,13 @@
   },
   "active": "e680521fcd803413",
   "lastOpenFiles": [
-    "Quick Notes.md",
     "Personal/Daily Tasks.md",
+    "School/Biology - Plant Anatomy.md",
+    "Quick Notes.md",
     "Personal/Password and Stuff.md",
     "Untitled.canvas",
     "Templates/Daily Quotes.md",
     "To-Do list.md",
-    "School/Biology - Plant Anatomy.md",
     "README.md",
     "Kanban.md",
     "Templates/Creation Date_Last Edited.md",
